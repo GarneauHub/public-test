@@ -1,0 +1,3 @@
+# GarneauHub — application privee (Cegep Garneau).
+User-agent: *
+Disallow:
